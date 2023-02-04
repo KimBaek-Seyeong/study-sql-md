@@ -8,9 +8,9 @@ programmers 문제 풀고 올리는 마크다운 파일모음
 <br>
 
 ### 1단계
-| Table Header1 | Table Header2 | Table Header3 |
+| 번호 | 문제 | 일자 |
 |:----------|:----------:|----------:|
-| **Cell** | Cell | ~~Cell~~ |
+| 59037 | 어린 동물 찾기 | 2023-02-05 |
 | Cell | Cell | Cell |
 | Cell | Cell | Cell |
 <br>
